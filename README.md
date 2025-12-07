@@ -38,9 +38,10 @@ I am a passionate Full Stack Developer with a strong foundation in building resp
 ---
 
 ### 📫 How to Reach Me
+- 🔗 **Portfolio:** [Kamal Elmaddini](https://kamalelmaddini.github.io/portfolio/)
 - 📧 **Email:** [kamalelmaddini@gmail.com](mailto:kamalelmaddini@gmail.com)
 - 💼 **LinkedIn:** [Kamal Elmaddini](https://www.linkedin.com/in/kamal-elmaddini/)
-- 🔗 **Instagram:** [Kamal Elmaddini](https://www.instagram.com/kamal_madini/)
+- 👉 **Instagram:** [Kamal Elmaddini](https://www.instagram.com/kamal_madini/)
 - 🐙 **GitHub:** [@KamalElmaddini](https://github.com/KamalElmaddini)
 
 ---
